@@ -1,0 +1,13 @@
+{
+  "website_url": "https://news.google.com",  
+  "keyword": "Top stories",
+  "top_tag_name": "article",
+  "img_tag_1": "figure",
+  "img_tag_2":"img",
+  "cap_tag": "a",
+  "log_file": "scraper.log",
+  "database_name": "local_db",
+  "client_adress": "mongodb://localhost:27017/",
+  "scraped_data_file": "scraped_data.json"
+
+}
