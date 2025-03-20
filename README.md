@@ -1,5 +1,3 @@
-Here's a simplified and more readable README version of your content:
-
 # ML Web Scraper
 
 This project is a modular web scraping pipeline designed to extract images and captions from webpages, check for duplicates, and store data efficiently in MongoDB. The scraper is highly configurable, allowing easy adjustments without modifying the code.
